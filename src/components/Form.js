@@ -40,7 +40,7 @@ function Form() {
               setPage((currPage) => currPage - 1);
             }}
           >
-           Back
+           Previous
           </button>
           <button className="submit-button"
             onClick={() => {
